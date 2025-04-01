@@ -35,3 +35,5 @@ Then combined them all to get better results than any single model.
 - Add weather data to improve predictions
 - Make alerts better for grid operators
 - Create a dashboard for real-time monitoring
+
+*Dataset courtesy of Alex Kozlov https://www.kaggle.com/datasets/aramacus/electricity-demand-in-victoria-australia*
